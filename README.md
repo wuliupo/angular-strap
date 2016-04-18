@@ -1,6 +1,6 @@
 # [AngularStrap](http://mgcrea.github.io/angular-strap)
 
-[![Banner](http://mgcrea.github.io/angular-strap/images/snippet.png)](http://mgcrea.github.io/angular-strap)
+[![Banner](images/snippet.png)](http://mgcrea.github.io/angular-strap)
 
 AngularStrap is a set of native directives that enables seamless integration of [Bootstrap 3.0+](https://github.com/twbs/bootstrap) into your [AngularJS 1.2+](https://github.com/angular/angular.js) app.
 
